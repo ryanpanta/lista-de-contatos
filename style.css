@@ -54,6 +54,7 @@ body{
 }
 
 .list-item__name{
+    font-weight: 600;
     font-size: 24px;
     color: rgb(97, 197, 255);
     margin: 0;
